@@ -1,0 +1,42 @@
+{
+  "name": "nmm-xas-app-select-input",
+  "version": "1.0.0",
+  "description": "A customizable and reusable select input component for React applications, integrated with styled-components for enhanced styling and layout.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuhmanXas/npm-xas-app-select-input.git"
+  },
+  "keywords": [
+    "react",
+    "select",
+    "input",
+    "component",
+    "styled-components",
+    "customizable",
+    "reusable"
+  ],
+  "author": "NMM.Nuhman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NuhmanXas/npm-xas-app-select-input/issues"
+  },
+  "homepage": "https://github.com/NuhmanXas/npm-xas-app-select-input#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "styled-components": "^5.0.0",
+    "react-select": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.0",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^3.0.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "nmm-xas-app-select-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable and reusable select input component for React applications, integrated with styled-components for enhanced styling and layout.",
   "main": "index.js",
   "scripts": {
